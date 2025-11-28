@@ -1,8 +1,5 @@
 # 💎 CryptoTrack | Future Intern Task #5
 
-![Project Banner](https://via.placeholder.com/1000x400?text=CryptoTrack+Dashboard+Preview)
-> *Note: Please replace the image link above with a real screenshot of your project.*
-
 ## 📖 About The Project
 
 **CryptoTrack** is a modern, futuristic cryptocurrency dashboard developed as the **5th Task** for my internship at **Future Intern**.
@@ -10,7 +7,7 @@
 The goal was to build a fully functional React application that consumes a public API to track real-time crypto market data. I took the challenge further by implementing a premium **Glassmorphism UI** with a custom-built 3D animated background to demonstrate advanced CSS mastery alongside React logic.
 
 ### 🌟 Live Demo
-[**Click here to view the Live Demo**](https://your-project-link.vercel.app)
+[**Click here to view the Live Demo**]( https://fadyefat.github.io/FUTURE_BC_05/)
 
 ---
 
